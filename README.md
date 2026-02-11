@@ -1,0 +1,2 @@
+# artifical_intelligence_and_neural_network
+Artificial Intelligence and Neural Network Portfolio
